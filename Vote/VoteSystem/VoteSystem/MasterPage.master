@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="CSS/commonSheet.css" rel="stylesheet" />
+    <title>华北电力大学(保定）经管系投票</title>
+
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <table background="img\title.jpg" >
+            <tr>
+                <td class="Head "></td>
+            </tr>
+            <tr>
+                <td>
+                    <table class="table2">
+                        <tr>
+                            <td> <a class="toptitle"href="Default.aspx"> 投票互动</a></td>
+                            <td><a class="toptitle" href="AddItems.aspx">参加投票</a></td>
+                            <td><a class="toptitle" href="VoteResult.aspx">投票结果</a></td>
+                            <td><a class="toptitle" href="Admin.aspx">后台管理</a></td>
+                       </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+             
+        </asp:ContentPlaceHolder>
+        <p></p>
+        <div class="clear"></div>
+           <div class="Footer">
+               版权所有&华北电力大学（保定）经管系
+           </div>
+
+    </form>
+      
+</body>
+</html>

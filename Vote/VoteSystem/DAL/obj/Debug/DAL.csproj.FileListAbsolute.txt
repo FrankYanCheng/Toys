@@ -1,0 +1,21 @@
+d:\Documents\Visual Studio 2013\Projects\VoteSystem\DAL\bin\Debug\DAL.dll
+d:\Documents\Visual Studio 2013\Projects\VoteSystem\DAL\bin\Debug\DAL.pdb
+d:\Documents\Visual Studio 2013\Projects\VoteSystem\DAL\bin\Debug\Model.dll
+d:\Documents\Visual Studio 2013\Projects\VoteSystem\DAL\bin\Debug\Model.pdb
+d:\Documents\Visual Studio 2013\Projects\VoteSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2013\Projects\VoteSystem\DAL\obj\Debug\DAL.dll
+d:\Documents\Visual Studio 2013\Projects\VoteSystem\DAL\obj\Debug\DAL.pdb
+F:\VoteSystem\DAL\bin\Debug\DAL.dll
+F:\VoteSystem\DAL\bin\Debug\DAL.pdb
+F:\VoteSystem\DAL\bin\Debug\Model.dll
+F:\VoteSystem\DAL\bin\Debug\Model.pdb
+F:\VoteSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\VoteSystem\DAL\obj\Debug\DAL.dll
+F:\VoteSystem\DAL\obj\Debug\DAL.pdb
+F:\软件\Vote\VoteSystem\DAL\bin\Debug\DAL.dll
+F:\软件\Vote\VoteSystem\DAL\bin\Debug\DAL.pdb
+F:\软件\Vote\VoteSystem\DAL\bin\Debug\Model.dll
+F:\软件\Vote\VoteSystem\DAL\bin\Debug\Model.pdb
+F:\软件\Vote\VoteSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\软件\Vote\VoteSystem\DAL\obj\Debug\DAL.dll
+F:\软件\Vote\VoteSystem\DAL\obj\Debug\DAL.pdb

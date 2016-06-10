@@ -1,0 +1,10 @@
+F:\自制软件\CaculateMoney\ToolLibrary\bin\Debug\ToolLibrary.dll
+F:\自制软件\CaculateMoney\ToolLibrary\bin\Debug\ToolLibrary.pdb
+F:\自制软件\CaculateMoney\ToolLibrary\obj\Debug\ResolveAssemblyReference.cache
+F:\自制软件\CaculateMoney\ToolLibrary\obj\Debug\ToolLibrary.dll
+F:\自制软件\CaculateMoney\ToolLibrary\obj\Debug\ToolLibrary.pdb
+F:\软件\自制软件\CaculateMoney1.0.0.0\ToolLibrary\bin\Debug\ToolLibrary.dll
+F:\软件\自制软件\CaculateMoney1.0.0.0\ToolLibrary\bin\Debug\ToolLibrary.pdb
+F:\软件\自制软件\CaculateMoney1.0.0.0\ToolLibrary\obj\Debug\ToolLibrary.csprojResolveAssemblyReference.cache
+F:\软件\自制软件\CaculateMoney1.0.0.0\ToolLibrary\obj\Debug\ToolLibrary.dll
+F:\软件\自制软件\CaculateMoney1.0.0.0\ToolLibrary\obj\Debug\ToolLibrary.pdb

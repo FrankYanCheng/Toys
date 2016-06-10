@@ -1,0 +1,13 @@
+d:\Documents\Visual Studio 2013\Projects\VoteSystem\Model\bin\Debug\Model.dll
+d:\Documents\Visual Studio 2013\Projects\VoteSystem\Model\bin\Debug\Model.pdb
+d:\Documents\Visual Studio 2013\Projects\VoteSystem\Model\obj\Debug\Model.dll
+d:\Documents\Visual Studio 2013\Projects\VoteSystem\Model\obj\Debug\Model.pdb
+F:\VoteSystem\Model\bin\Debug\Model.dll
+F:\VoteSystem\Model\bin\Debug\Model.pdb
+F:\VoteSystem\Model\obj\Debug\Model.dll
+F:\VoteSystem\Model\obj\Debug\Model.pdb
+F:\软件\Vote\VoteSystem\Model\bin\Debug\Model.dll
+F:\软件\Vote\VoteSystem\Model\bin\Debug\Model.pdb
+F:\软件\Vote\VoteSystem\Model\obj\Debug\Model.dll
+F:\软件\Vote\VoteSystem\Model\obj\Debug\Model.pdb
+F:\软件\Vote\VoteSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

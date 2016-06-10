@@ -1,0 +1,10 @@
+F:\自制软件\CaculateMoney\EventLibrary\bin\Debug\EventLibrary.dll
+F:\自制软件\CaculateMoney\EventLibrary\bin\Debug\EventLibrary.pdb
+F:\自制软件\CaculateMoney\EventLibrary\obj\Debug\ResolveAssemblyReference.cache
+F:\自制软件\CaculateMoney\EventLibrary\obj\Debug\EventLibrary.dll
+F:\自制软件\CaculateMoney\EventLibrary\obj\Debug\EventLibrary.pdb
+F:\软件\自制软件\CaculateMoney1.0.0.0\EventLibrary\bin\Debug\EventLibrary.dll
+F:\软件\自制软件\CaculateMoney1.0.0.0\EventLibrary\bin\Debug\EventLibrary.pdb
+F:\软件\自制软件\CaculateMoney1.0.0.0\EventLibrary\obj\Debug\EventLibrary.csprojResolveAssemblyReference.cache
+F:\软件\自制软件\CaculateMoney1.0.0.0\EventLibrary\obj\Debug\EventLibrary.dll
+F:\软件\自制软件\CaculateMoney1.0.0.0\EventLibrary\obj\Debug\EventLibrary.pdb

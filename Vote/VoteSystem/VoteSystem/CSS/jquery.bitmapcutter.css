@@ -1,0 +1,170 @@
+﻿.jquery-bitmapcutter-cl,.jquery-bitmapcutter-cr
+{
+	margin:5px;
+	height:auto; 
+	-moz-user-select : none;
+	}
+.jquery-bitmapcutter-holder
+{
+	border:solid 0px #048cff;
+	position:relative;
+	overflow:hidden;
+	}
+.jquery-bitmapcutter-holder img
+{
+	position:relative;
+	left:0;
+	top:0;
+	}
+.jquery-bitmapcutter-cutter
+{
+	position:absolute;
+	border:0px dashed #048cff;
+	z-index:200;
+	background:#EEF3F7 url(images/pointer.png) no-repeat center center;
+	cursor:move;
+	overflow:hidden;
+	}
+.jquery-bitmapcutter-cutter .jquery-bitmapcutter-resize
+{
+	background:url(images/resize.gif) no-repeat center center;
+	width:11px;
+	height:11px;
+	cursor:nw-resize;
+	display:block;
+	position:absolute;
+	right:0;
+	bottom:0;
+	}
+.jquery-bitmapcutter-opts
+{
+	height:48px;
+	position:relative;
+	}
+.jquery-bitmapcutter-opts div
+{
+	height:16px;
+	display:block;
+	margin-top:2px;
+	}
+.jquery-bitmapcutter-opts a
+{
+	text-decoration:none;
+	display:block;
+	height:15px;
+	width:15px;
+	margin-right:5px;
+	position:relative;
+	border:1px outset Transparent;
+	background:url(images/opts.png) no-repeat center center;
+	}
+.jquery-bitmapcutter-opts .r1c1 a,.jquery-bitmapcutter-opts .r3c1 a
+{
+	margin:auto;
+	}
+.jquery-bitmapcutter-opts .r2c1 a
+{
+	float:left;
+	}
+.jquery-bitmapcutter-opts a:hover
+{
+	border:1px outset #a5b6c8;
+	}
+.jquery-bitmapcutter-opts a:active
+{
+	border:1px inset #a5b6c8;
+	}
+.jquery-bitmapcutter-opts a.zoomout
+{
+	background-position:0 0;
+	}
+.jquery-bitmapcutter-opts a.zoomin
+{
+	background-position:-16px 0;
+	}
+.jquery-bitmapcutter-opts a.clockwise
+{
+	background-position:-65px 0;
+	}
+.jquery-bitmapcutter-opts a.original
+{
+	background-position:-48px 0;
+	}
+.jquery-bitmapcutter-opts a.counterclockwise
+{
+	background-position:-32px 0;
+	}
+.jquery-bitmapcutter-opts a.up
+{
+	background-position:-81px 0;
+	}
+.jquery-bitmapcutter-opts a.down
+{
+	background-position:-96px 0;
+	}
+.jquery-bitmapcutter-opts a.left
+{
+	background-position:-113px 0;
+	}
+.jquery-bitmapcutter-opts a.right
+{
+	background-position:-128px 0;
+	}
+.jquery-bitmapcutter-info
+{
+	text-align:center;
+	font-family:Verdana;
+	font-size:10px;
+	margin-top:15px;
+	}
+.jquery-loader
+{
+	background:url(images/indicator.gif) no-repeat center center;
+	}
+.jquery-bitmapcutter-thumbnail
+{
+	width:50px;
+	height:50px;
+	border:dashed 1px #048cff;
+	overflow:hidden;
+	position:relative;
+	}
+.jquery-bitmapcutter-thumbnail img
+{
+	position:relative;
+	left:0;
+	top:0;
+	}
+.jquery-bitmapcutter-cr .generate
+{
+	width:60px;
+	height: 24px;
+	background:url(images/generate.png) no-repeat center 0;
+	display:block;
+	text-decoration:none;
+	font-family:微软雅黑;
+	color:White;
+	text-align:center;
+	margin-left:0px;
+	color: #FFF;
+	background-color: #048cff;
+	font-size: 13px;
+	text-align: center; 
+	padding-top:8px;
+	margin-top:10px;
+	}
+.jquery-bitmapcutter-cr .process
+{
+	font-family:Verdana;
+	font-size:10px;
+	width:150px;
+	margin-top:10px;
+	background:url(images/indicator.gif) no-repeat left top;
+	text-indent:20px;
+	line-height:18px;
+	}
+.jquery-bitmapcutter-newimg
+{
+	border:solid 0px #048cff;
+	margin-top:20px;
+	}

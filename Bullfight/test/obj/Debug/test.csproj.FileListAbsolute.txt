@@ -1,0 +1,8 @@
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\test\bin\Debug\test.exe.config
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\test\bin\Debug\test.exe
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\test\bin\Debug\test.pdb
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\test\obj\Debug\test.exe
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\test\obj\Debug\test.pdb
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\test\bin\Debug\Pokers.dll
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\test\bin\Debug\Pokers.pdb

@@ -1,0 +1,5 @@
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\Porker\bin\Debug\Porker.dll
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\Porker\bin\Debug\Porker.pdb
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\Porker\obj\Debug\Porker.dll
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\Porker\obj\Debug\Porker.pdb
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\Porker\obj\Debug\Porker.csprojResolveAssemblyReference.cache

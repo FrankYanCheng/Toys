@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\文件夹\BeanAI\AItest\AItest\bin\Debug\AItest.exe.config
+C:\Users\Administrator\Desktop\文件夹\BeanAI\AItest\AItest\bin\Debug\AItest.exe
+C:\Users\Administrator\Desktop\文件夹\BeanAI\AItest\AItest\bin\Debug\AItest.pdb
+C:\Users\Administrator\Desktop\文件夹\BeanAI\AItest\AItest\obj\Debug\AItest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\文件夹\BeanAI\AItest\AItest\obj\Debug\AItest.Chess.resources
+C:\Users\Administrator\Desktop\文件夹\BeanAI\AItest\AItest\obj\Debug\AItest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\文件夹\BeanAI\AItest\AItest\obj\Debug\AItest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\文件夹\BeanAI\AItest\AItest\obj\Debug\AItest.exe
+C:\Users\Administrator\Desktop\文件夹\BeanAI\AItest\AItest\obj\Debug\AItest.pdb
+C:\Users\Administrator\Desktop\BeanAI\AItest\AItest\bin\Debug\AItest.exe.config
+C:\Users\Administrator\Desktop\BeanAI\AItest\AItest\bin\Debug\AItest.exe
+C:\Users\Administrator\Desktop\BeanAI\AItest\AItest\bin\Debug\AItest.pdb
+C:\Users\Administrator\Desktop\BeanAI\AItest\AItest\obj\Debug\AItest.Chess.resources
+C:\Users\Administrator\Desktop\BeanAI\AItest\AItest\obj\Debug\AItest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BeanAI\AItest\AItest\obj\Debug\AItest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BeanAI\AItest\AItest\obj\Debug\AItest.exe
+C:\Users\Administrator\Desktop\BeanAI\AItest\AItest\obj\Debug\AItest.pdb

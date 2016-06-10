@@ -1,0 +1,391 @@
+﻿body {
+    width:1000px;
+    color:black;
+    margin:0 auto;
+    background-color:#9966CC;
+}
+
+.Logo
+{
+    height:68px;
+    width:90px;
+    margin-left:300px;
+    margin-top:5px;
+}
+/*开头*/
+.Head 
+{
+    width:1000px;
+    height:60px;
+    margin-left:0px;
+}
+
+.table2 {
+     text-align:center;
+     width:800px;
+     margin-left:100px;
+}
+
+.toptitle {
+        font-family : 楷体;
+        font-weight :bold;
+        color:white;
+        text-decoration:none;
+    }
+.toptitle:hover {            
+            text-decoration:underline;
+        }
+
+
+ 
+/*分类*/
+.showpage {
+    width:990px;
+    background:#99CCFF;
+    height:540px;
+    min-height:540px;
+    height:auto !important;
+    padding-left:10px;
+    padding-top:10px;
+    
+            }
+
+.Photo
+{
+    width: 234px;
+    height: 234px;
+    float:left;
+}
+.VoteItems
+{
+    width: 234px;
+    float: left;
+    margin: 7px 5px;
+    color: #333;
+}
+.VoteItems span
+{
+      margin-left:10px;
+      color:#200000;
+      padding-top:0px;
+}
+/*投票按钮*/
+.choice{
+    width:1000px;
+    color:#006600;
+    background-color:#CCCCCC;
+    margin-left:0px;
+    margin-top:0px;
+    text-align:left;
+    padding-left:7px;    
+    font-family:楷体;
+}
+
+
+.lkVote1 {
+    background-color:blue;
+    float:left;
+    color:black;   
+    text-align:center; 
+    text-decoration:none;
+}
+
+.lkVote2
+{
+    background-color:blue;
+    float:left;
+    color:white;
+    width:234px;
+    height:25px; 
+    text-decoration:none;
+    text-align:center;
+    padding-top:8px;
+}
+    .lkVote2:hover {
+        background-color:#3300FF;
+    }
+ 
+/*页脚*/
+.Footer
+{
+  background-color:#000099;
+  color:white;
+  font-size:larger;
+  text-align:center;
+ 
+}
+
+
+
+
+
+
+
+
+/*-----------------个人主页-------------------------*/
+.Personal
+{
+   text-align:center;
+   margin-top:10px;
+   margin-left:30px;
+   float:left;
+}
+.Personal-table0 {
+    width:234px;
+}
+.Personaldiv {
+    float:left;
+    width:234px;
+}
+.Personal-Table
+{
+   border:thin;
+   border-width:1px;   
+   background-color:#00CCFF;
+   width:600px;
+   text-align:center;
+   margin-left:70px;
+   margin-top:10px;
+}
+.Personal-tr1 {
+    background-color:blue;
+    color:white;
+}
+.Personal-tr1 td {
+    width:150px;
+}
+.Personal-tr2 {
+    background-color:#FFFF99;
+}
+.Personal-tr2 td {
+    width:150px;
+}
+.Personal-tr3 {
+    background-color:#FFFF99;
+    text-align:left;
+}
+.Personal-tr4 {
+    background-color:blue;
+    color:white;
+}
+
+/*-------------------投票结果专用-------------------------------*/
+/*姓名右边的进度条*/
+.skillbar {
+    float: left;
+    position: relative;
+    left:132px;
+    display: block;
+    margin-bottom: 15px;
+    width: 850px;
+    background: #eee;
+    height: 35px;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -webkit-transition: 0.4s linear;
+    -moz-transition: 0.4s linear;
+    -ms-transition: 0.4s linear;
+    -o-transition: 0.4s linear;
+    transition: 0.4s linear;
+    -webkit-transition-property: width, background-color;
+    -moz-transition-property: width, background-color;
+    -ms-transition-property: width, background-color;
+    -o-transition-property: width, background-color;
+    transition-property: width, background-color;
+}
+/*条形图左边的姓名*/
+.skillbar-title {
+    position: absolute;
+    top: 0;
+    left: -130px;
+    width: 130px;
+    font-weight: bold;
+    font-size: 13px;
+    color: #ffffff;
+    background: #6adcfa;
+    -webkit-border-top-left-radius: 3px;
+    -webkit-border-bottom-left-radius: 4px;
+    -moz-border-radius-topleft: 3px;
+    -moz-border-radius-bottomleft: 3px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+    .skillbar-title span {
+        display: block;
+        color: #fff;
+        background-color: #f38240;
+        padding: 0 20px;
+        height: 35px;
+        line-height: 35px;
+        -webkit-border-top-left-radius: 3px;
+        -webkit-border-bottom-left-radius: 3px;
+        -moz-border-radius-topleft: 3px;
+        -moz-border-radius-bottomleft: 3px;
+        border-top-left-radius: 3px;
+        border-bottom-left-radius: 3px;
+    }
+
+.skillbar-bar {
+    height: 35px;
+    width: 0px;
+    background: #6adcfa;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+.skill-bar-percent {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    font-size: 11px;
+    height: 35px;
+    line-height: 35px;
+    color: #ffffff;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.clear {
+    clear:both;
+    display:block;
+    width:0;
+    height:0;
+    overflow:hidden;
+}
+
+/*出错页*/
+#ErrorStyle
+{
+    font-size:xx-large;
+    font-style:oblique;
+}
+/*登录页*/
+
+.login {
+    width: 300px;
+    padding: 15px 0 15px 5px;
+    background-color:Silver;
+    margin-left:5px;
+}
+
+.items{
+    margin-left:5px;
+    }
+
+.tbDefault {
+    height: 25px;
+    width: 100%;
+    margin: 10px 0 20px 0;
+    padding: 5px 10px;
+    font-size: 14px;
+    background-color: #fff;
+    color: rgba(0,0,0,0.75);
+    display: block;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.pLogin {
+    margin-top: 18px;
+    margin-left:5px;
+}
+
+.btDefault {
+    width: 100%;
+    padding: 9px 5px;
+    color: #fff;
+        border: 0px solid #ccc;
+    text-align: center;
+    cursor: pointer;
+    display: block;
+    background-color: #048cff;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+}
+/*添加页*/
+.addTb, .addMultb {
+}
+.xing {
+    color:red;
+}
+.addMultb {
+}
+
+    .btDefault:hover {
+        background-color: #00b6de;
+        color: #fff;
+    }
+    .pContent {
+    vertical-align: top;
+}
+
+.btApply {
+    width:50px;
+    border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    background-color: #048CFF;
+    color: #fff;
+    cursor: pointer;
+    margin: 10px 0 20px 0;
+    padding: 7px 0;
+    text-align: center;
+    text-decoration: none;
+    font-family: 微软雅黑;
+}
+
+    .btApply:hover {
+        background-color: #309fe6;
+    }
+
+    /*管理页面*/
+    .menu, .tip, .voteBody{
+    width: 1000px;
+    margin: 0 auto;
+}
+.voteResult ,.manage {
+    width:994px;
+    margin: 0 auto;
+}
+
+
+.admin_p {
+    float:right;
+    margin-right:15px;
+}
+
+.adminTable{width:977px;border-collapse:collapse;margin:5px 5px;}
+.adminTable th,.adminTable  td{text-align:center;padding:7px; border:1px solid #fff;}
+.adminTable th{background:#328aa4 url(tr_back.gif) repeat-x;color:#fff;}
+.adminTable td{background:#e5f1f4;}
+
+
+
+.adminTable tr.even td{background:#e5f1f4;}
+.adminTable tr.odd td{background:#f8fbfc;}
+
+.adminTable th.over, .adminTable tr.even th.over, .adminTable tr.odd th.over{background:#4a98af;}
+.adminTable th.down, .adminTable tr.even th.down, .adminTable tr.odd th.down{background:#bce774;}
+.adminTable th.selected, .adminTable tr.even th.selected, .adminTable tr.odd th.selected{}
+
+.adminTable td.over, .adminTable tr.even td.over, .adminTable tr.odd td.over{background:#ecfbd4;}
+.adminTable td.down, .adminTable tr.even td.down, .adminTable tr.odd td.down{background:#bce774;color:#fff;}
+.adminTable td.selected, .adminTable tr.even td.selected, .adminTable tr.odd td.selected{background:#bce774;color:#555;}
+
+
+.adminTable td.empty, .adminTable tr.odd td.empty, .adminTable tr.even td.empty{background:#fff;}
+
+.adminTable td a{ color:#000; text-decoration:none;}
+.adminTable td a:hover{ color:#048cff;text-decoration: underline;}

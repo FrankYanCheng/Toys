@@ -1,0 +1,4 @@
+F:\软件\自制软件\ProuctManage\MangerSystem\SecurityMissionLibrary\bin\Debug\SecurityMissionLibrary.dll
+F:\软件\自制软件\ProuctManage\MangerSystem\SecurityMissionLibrary\bin\Debug\SecurityMissionLibrary.pdb
+F:\软件\自制软件\ProuctManage\MangerSystem\SecurityMissionLibrary\obj\Debug\SecurityMissionLibrary.dll
+F:\软件\自制软件\ProuctManage\MangerSystem\SecurityMissionLibrary\obj\Debug\SecurityMissionLibrary.pdb

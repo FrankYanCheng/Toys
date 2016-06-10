@@ -1,0 +1,15 @@
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\Pokers\bin\Debug\Pokers.dll
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\Pokers\bin\Debug\Pokers.pdb
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\Pokers\obj\Debug\Pokers.dll
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\Pokers\obj\Debug\Pokers.pdb
+C:\Users\fyc\Desktop\扑克游戏\Porker-Bullfight\Pokers\obj\Debug\Pokers.csprojResolveAssemblyReference.cache
+K:\桌面备份1205\扑克游戏\Porker-Bullfight\Pokers\bin\Debug\Pokers.dll
+K:\桌面备份1205\扑克游戏\Porker-Bullfight\Pokers\bin\Debug\Pokers.pdb
+K:\桌面备份1205\扑克游戏\Porker-Bullfight\Pokers\obj\Debug\Pokers.csprojResolveAssemblyReference.cache
+K:\桌面备份1205\扑克游戏\Porker-Bullfight\Pokers\obj\Debug\Pokers.dll
+K:\桌面备份1205\扑克游戏\Porker-Bullfight\Pokers\obj\Debug\Pokers.pdb
+C:\Users\Administrator\Desktop\Porker-Bullfight\Pokers\bin\Debug\Pokers.dll
+C:\Users\Administrator\Desktop\Porker-Bullfight\Pokers\bin\Debug\Pokers.pdb
+C:\Users\Administrator\Desktop\Porker-Bullfight\Pokers\obj\Debug\Pokers.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Porker-Bullfight\Pokers\obj\Debug\Pokers.dll
+C:\Users\Administrator\Desktop\Porker-Bullfight\Pokers\obj\Debug\Pokers.pdb

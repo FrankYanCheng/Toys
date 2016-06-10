@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Bayes\Bayes\bin\Debug\Bayes.exe.config
+C:\Users\Administrator\Desktop\Bayes\Bayes\bin\Debug\Bayes.exe
+C:\Users\Administrator\Desktop\Bayes\Bayes\bin\Debug\Bayes.pdb
+C:\Users\Administrator\Desktop\Bayes\Bayes\obj\Debug\Bayes.exe
+C:\Users\Administrator\Desktop\Bayes\Bayes\obj\Debug\Bayes.pdb
+C:\Users\Administrator\Desktop\Bayes\Bayes\obj\Debug\Bayes.csprojResolveAssemblyReference.cache
+E:\桌面备份12-3\Bayes\Bayes\bin\Debug\Bayes.exe.config
+E:\桌面备份12-3\Bayes\Bayes\obj\Debug\Bayes.exe
+E:\桌面备份12-3\Bayes\Bayes\obj\Debug\Bayes.pdb

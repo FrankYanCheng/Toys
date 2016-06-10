@@ -1,0 +1,14 @@
+F:\自制软件\ProuctManage\MangerSystem\FileToolLibrary\bin\Debug\FileToolLibrary.dll
+F:\自制软件\ProuctManage\MangerSystem\FileToolLibrary\bin\Debug\FileToolLibrary.pdb
+F:\自制软件\ProuctManage\MangerSystem\FileToolLibrary\obj\Debug\ResolveAssemblyReference.cache
+F:\自制软件\ProuctManage\MangerSystem\FileToolLibrary\obj\Debug\FileToolLibrary.dll
+F:\自制软件\ProuctManage\MangerSystem\FileToolLibrary\obj\Debug\FileToolLibrary.pdb
+F:\自制软件\ProuctManage\MangerSystem\FileToolLibrary\bin\Debug\ToolLibrary.dll
+F:\自制软件\ProuctManage\MangerSystem\FileToolLibrary\bin\Debug\ToolLibrary.pdb
+F:\软件\自制软件\ProuctManage\MangerSystem\FileToolLibrary\bin\Debug\FileToolLibrary.dll
+F:\软件\自制软件\ProuctManage\MangerSystem\FileToolLibrary\bin\Debug\FileToolLibrary.pdb
+F:\软件\自制软件\ProuctManage\MangerSystem\FileToolLibrary\bin\Debug\ToolLibrary.dll
+F:\软件\自制软件\ProuctManage\MangerSystem\FileToolLibrary\bin\Debug\ToolLibrary.pdb
+F:\软件\自制软件\ProuctManage\MangerSystem\FileToolLibrary\obj\Debug\FileToolLibrary.csprojResolveAssemblyReference.cache
+F:\软件\自制软件\ProuctManage\MangerSystem\FileToolLibrary\obj\Debug\FileToolLibrary.dll
+F:\软件\自制软件\ProuctManage\MangerSystem\FileToolLibrary\obj\Debug\FileToolLibrary.pdb

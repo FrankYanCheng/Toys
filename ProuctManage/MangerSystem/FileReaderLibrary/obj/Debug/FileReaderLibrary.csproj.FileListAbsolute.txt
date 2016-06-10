@@ -1,0 +1,14 @@
+F:\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\bin\Debug\FileReaderLibrary.dll
+F:\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\bin\Debug\FileReaderLibrary.pdb
+F:\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\obj\Debug\ResolveAssemblyReference.cache
+F:\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\obj\Debug\FileReaderLibrary.dll
+F:\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\obj\Debug\FileReaderLibrary.pdb
+F:\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\bin\Debug\ToolLibrary.dll
+F:\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\bin\Debug\ToolLibrary.pdb
+F:\软件\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\bin\Debug\FileReaderLibrary.dll
+F:\软件\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\bin\Debug\FileReaderLibrary.pdb
+F:\软件\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\bin\Debug\ToolLibrary.dll
+F:\软件\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\bin\Debug\ToolLibrary.pdb
+F:\软件\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\obj\Debug\FileReaderLibrary.csprojResolveAssemblyReference.cache
+F:\软件\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\obj\Debug\FileReaderLibrary.dll
+F:\软件\自制软件\ProuctManage\MangerSystem\FileReaderLibrary\obj\Debug\FileReaderLibrary.pdb

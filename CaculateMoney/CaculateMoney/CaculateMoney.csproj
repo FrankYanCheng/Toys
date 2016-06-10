@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D953BC80-A6D4-4AC3-9E77-4C269951FB78}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CaculateMoney</RootNamespace>
+    <AssemblyName>CaculateMoney</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Tu.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Caculate Daily.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caculate Daily.Designer.cs">
+      <DependentUpon>Caculate Daily.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CostCaculate.cs" />
+    <Compile Include="DailyHelperForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyHelperForm.Designer.cs">
+      <DependentUpon>DailyHelperForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetInAllForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetInAllForm.Designer.cs">
+      <DependentUpon>GetInAllForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetName.cs" />
+    <Compile Include="LimitionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LimitionForm.Designer.cs">
+      <DependentUpon>LimitionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainTable.Designer.cs">
+      <DependentUpon>MainTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuWei.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuWei.Designer.cs">
+      <DependentUpon>QuWei.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchCostMonth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchCostMonth.Designer.cs">
+      <DependentUpon>SearchCostMonth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectMonthDirectory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectMonthDirectory.Designer.cs">
+      <DependentUpon>SelectMonthDirectory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentCardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentCardForm.Designer.cs">
+      <DependentUpon>StudentCardForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Caculate Daily.resx">
+      <DependentUpon>Caculate Daily.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyHelperForm.resx">
+      <DependentUpon>DailyHelperForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetInAllForm.resx">
+      <DependentUpon>GetInAllForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LimitionForm.resx">
+      <DependentUpon>LimitionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainTable.resx">
+      <DependentUpon>MainTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QuWei.resx">
+      <DependentUpon>QuWei.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchCostMonth.resx">
+      <DependentUpon>SearchCostMonth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectMonthDirectory.resx">
+      <DependentUpon>SelectMonthDirectory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentCardForm.resx">
+      <DependentUpon>StudentCardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EventLibrary\EventLibrary.csproj">
+      <Project>{B869F959-AABD-48C7-958E-4F0982C6C062}</Project>
+      <Name>EventLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ToolLibrary\ToolLibrary.csproj">
+      <Project>{781FD0A4-F648-4B62-90D2-05A087D66599}</Project>
+      <Name>ToolLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Cm.ico" />
+    <Content Include="Tu.ico" />
+    <None Include="Resources\20101022093506335.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
